@@ -1,0 +1,6 @@
+A = float(input("entrer la valeur de A :"))
+B = float(input("entrer la valeur de B :"))
+print ("A + B = ",A + B )
+print ("A - B = ",A - B )
+print ("A * B = ",A * B )
+print ("A / B = ",A / B )
